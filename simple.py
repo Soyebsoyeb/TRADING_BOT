@@ -140,18 +140,18 @@ for _ in range(3):
     time.sleep(2)
 
     
-[*********************100%%**********************]  1 of 1 completed
-No data fetched
-Generated Sinal: Hold
-Remaining balance: 10000
-[*********************100%%**********************]  1 of 1 completed
-No data fetched
-Generated Sinal: Hold
-Remaining balance: 10000
-[*********************100%%**********************]  1 of 1 completed
-No data fetched
-Generated Sinal: Hold
-Remaining balance: 10000
+# [*********************100%%**********************]  1 of 1 completed
+# No data fetched
+# Generated Sinal: Hold
+# Remaining balance: 10000
+# [*********************100%%**********************]  1 of 1 completed
+# No data fetched
+# Generated Sinal: Hold
+# Remaining balance: 10000
+# [*********************100%%**********************]  1 of 1 completed
+# No data fetched
+# Generated Sinal: Hold
+# Remaining balance: 10000
  
  
  
